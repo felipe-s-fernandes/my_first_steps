@@ -18,3 +18,6 @@ Conteúdo do ".gitignore":
 serei_ignorado.*
 
 ## Questão 5
+git add .
+git commit -m "My first commit" -m "This is my first commit on GitHub"
+git push -u origin main
